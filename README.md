@@ -1,8 +1,6 @@
 # game-tusheng
 ### 构建工具
 
-Amaze UI 使用 [gulp.js](http://gulpjs.com/) 构建项目。
-
 首先全局安装 gulp：
 
 ```
