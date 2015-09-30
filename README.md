@@ -10,7 +10,7 @@ npm install -g gulp
 克隆项目文件:
 
 ```
-git clone https://github.com/allmobilize/amazeui.git
+git clone https://github.com/nvsky/game-tusheng.git
 ```
 
 然后进入目录安装依赖：
